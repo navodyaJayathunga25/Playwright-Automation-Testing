@@ -2,16 +2,16 @@
 Automated test suite for SwiftTranslator (Singlish → Sinhala transliteration system) built with Playwright. Contains 25 positive, 11 negative, and 1 UI test cases as required by the assignment.
 
 ## 📌 Project Overview
-This repository contains a complete Playwright test automation suite for testing https://www.swifttranslator.com/ – a Singlish to Sinhala transliteration system.
-✅ 25 Positive Functional Tests – Valid inputs with correct conversion expectations
-❌ 11 Negative Functional Tests – Edge cases exposing system limitations
+This repository contains a complete Playwright test automation suite for testing https://www.swifttranslator.com/ – a Singlish to Sinhala transliteration system.<br/>
+✅ 25 Positive Functional Tests – Valid inputs with correct conversion expectations<br/>
+❌ 11 Negative Functional Tests – Edge cases exposing system limitations<br/>
 🖥️ 1 UI Tests – Real-time conversion, clear button, copy functionality
 
 ## ⚙️ Prerequisites
-Node.js v18 or higher (Download)
-npm v9 or higher (comes with Node.js)
-Git (optional, for version control)
-Playwright tool
+Node.js v18 or higher (Download)<br/>
+npm v9 or higher (comes with Node.js)<br/>
+Git (optional, for version control)<br/>
+Playwright tool<br/>
 visual studio code
 
 ## 🚀 Getting Started
